@@ -1,0 +1,139 @@
+body {
+    height: 1080px;
+}
+
+
+
+.container-fluid.text-center.um {
+    height: 35px;
+}
+.row.um {
+    height: 100%;
+}
+.col.final-um {
+    background-color: lavender;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 100%;
+}
+.col-sm-2.final-um {
+    background-color: lavender;
+    height: 100%;
+}
+
+
+
+.container-fluid.text-center.dois {
+    margin-top: 75px;
+    height: 75px;
+}
+.row.dois {
+    height: 100%;
+}
+.col.inicio-dois {
+    background-color: lavender;
+    margin-left: 90px;
+    margin-right: 15px;
+    height: 100%;
+}
+.col.final-dois {
+    background-color: lavender;
+    margin-left: 0;
+    margin-right: 90px;
+    height: 100%;
+}
+.col.meio-dois {
+    background-color: lavender;
+    margin-left: 0;
+    margin-right: 15px;
+    height: 100%;
+}
+
+
+
+.container-fluid.text-center.tres {
+    margin-top: 75px;
+    height: 675px;
+
+}
+.row.tres {
+    height: 100%;
+    margin-bottom: 75px; 
+}
+.col-sm-7.inicio-tres {
+    padding: 0;
+    margin-left: 90px;
+    margin-right: 15px;
+}
+.col.final-tres {
+    padding: 0;
+    margin-left: 0;
+    margin-right: 90px;
+    height: 100%;
+}
+.col-int.inicio-tres.in {
+    background-color: lavender;
+    height: 40%;
+    margin-bottom: 69px;  
+}
+.col-int.final-tres.in {
+    height: 32.371%; 
+}
+.col-int.final-tres.in.final-linha {
+    background-color: lavender;
+    height: 6.35%;
+    margin-bottom: 20.24px;   
+}
+
+
+
+.col-int.meio-tres.in {
+    display: flex;
+    height: 10%;
+    margin-bottom: 50px;
+}
+.col-int.meio-tres.in.meio-interno.inicio {
+    background-color: lavender;
+    width: 23.2%;
+    margin-right: 2.4%;
+    height: 100%;
+}
+.col-int.meio-tres.in.meio-interno.meio {
+    background-color: lavender;
+    width: 23.2%;
+    margin-right: 2.4%;
+    height: 100%;
+}
+.col-int.meio-tres.in.meio-interno.final {
+    background-color: lavender;
+    width: 23.2%;
+    height: 100%;
+}
+
+
+
+.col-int.inicio-tres.fi {
+    background-color: lavender;
+    height: 17%;
+    margin-bottom: 10px;  
+}
+.col-int.final-tres.fi {
+    background-color: lavender;
+    height: 17%;
+    margin-bottom: 10px;
+    
+}
+.col-int.meio-tres.fi {
+    background-color: lavender;
+    height: 17%;
+    margin-bottom: 10px;
+}
+.col-int.meio-tres.fi.final-linha {
+    background-color: lavender;
+    height: 2.06%;
+    margin-bottom: 40px;
+}
+.col-int.meio-tres.fi.final-linha.ult {
+    background-color: lavender;
+    height: 2.06%;
+}
